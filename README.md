@@ -1,2 +1,2 @@
 # astrology
-#YouTubeで見た星占いのコードです
+##YouTubeで見た星占いのコードです
